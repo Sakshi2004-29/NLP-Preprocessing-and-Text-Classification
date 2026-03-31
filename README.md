@@ -1,6 +1,6 @@
 # NLP Preprocessing and Fake News Detection
 
-📌 ##**Objective**
+📌 ## Objective
 The objective of this project is to implement Natural Language Processing (NLP) preprocessing techniques and build a machine learning model to classify news as Fake or Real.
 
 ---
