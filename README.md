@@ -93,8 +93,11 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 ## 📁 Project Structure  
 
 ├── NLP_Assignment.ipynb
+
 ├── True.csv
+
 ├── Fake.csv
+
 ├── README.md
 
 
