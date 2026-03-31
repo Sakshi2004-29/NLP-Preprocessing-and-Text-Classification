@@ -25,6 +25,7 @@ Evaluate model performance using metrics
 
 📂 ##Dataset  
 Dataset link :- https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 Dataset used: Fake and Real News Dataset (Kaggle)  
 
 - True.csv → Real News  
@@ -32,7 +33,7 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 
 ---
 
-⚙️ Technologies Used  
+⚙️ ##Technologies Used  
 
 - Python  
 - NumPy  
@@ -44,7 +45,7 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 
 ---
 
-🔄 Workflow  
+🔄 ##Workflow  
 
 1. Data Loading  
 - Load True.csv and Fake.csv files  
@@ -82,34 +83,14 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 
 ---
 
-📊 Results  
+📊 ##Results  
 
 - Achieved approximately **90–99% accuracy**  
 - Best performing models: **SVM and Logistic Regression**  
 
 ---
 
-🚀 How to Run  
-
-1. Clone the repository:
-
-2. Install dependencies:
-3. 
-3. Run the notebook:
-- Open in Jupyter Notebook / Google Colab  
-- Execute all cells  
-
----
-
-📁 Project Structure  
-3. Run the notebook:
-- Open in Jupyter Notebook / Google Colab  
-- Execute all cells  
-
----
-
-📁 Project Structure  
-
+📁 ##Project Structure  
 
 ├── NLP_Assignment.ipynb
 ├── True.csv
@@ -119,18 +100,17 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 
 ---
 
-📌 Conclusion  
+📌 ##Conclusion  
 
 This project demonstrates how NLP preprocessing and vectorization techniques can effectively classify news as Fake or Real. The use of TF-IDF and machine learning models significantly improves classification performance.
 
 ---
 
-📜 Undertaking  
+📜 ##Undertaking  
 
 We hereby declare that this project is our original work and has been completed as part of the academic requirement. All resources and references have been appropriately acknowledged.
 
----
-
 🔗 GitHub Repository  
 
-👉 https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+👉 https://github.com/Sakshi2004-29/NLP-Preprocessing-and-Text-Classification
+
