@@ -5,7 +5,7 @@ The objective of this project is to implement Natural Language Processing (NLP) 
 
 ---
 
-🎯 ##Learning Outcomes  
+🎯 ## Learning Outcomes  
 
 Apply NLP preprocessing techniques:
 - Tokenization  
