@@ -47,11 +47,11 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 
 ## 🔄 Workflow  
 
-1. Data Loading  
+1. **Data Loading**  
 - Load True.csv and Fake.csv files  
 - Combine both datasets  
 
-2. Data Preprocessing  
+2. **Data Preprocessing**  
 - Convert text to lowercase  
 - Remove special characters  
 - Tokenization  
@@ -59,25 +59,25 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 - Stemming (PorterStemmer)  
 - Lemmatization (WordNetLemmatizer)  
 
-3. Text Vectorization  
+3. **Text Vectorization**  
 - TF-IDF Vectorizer (used for model training)  
 - CountVectorizer (used for comparison)  
 
-4. Model Training  
+4. **Model Training**  
 - Logistic Regression  
 - Naive Bayes  
 - Support Vector Machine (SVM)  
 
-5. Model Evaluation  
+5. **Model Evaluation** 
 - Accuracy Score  
 - Classification Report  
 - Confusion Matrix  
 
-6. Visualization  
+6. **Visualization**  
 - Confusion Matrix Heatmap  
 - Model Accuracy Comparison Graph  
 
-7. Custom Prediction  
+7. **Custom Prediction**  
 - Predict whether input news is Fake or Real  
 - Display prediction with confidence score  
 
