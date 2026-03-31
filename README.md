@@ -92,3 +92,45 @@ Dataset used: Fake and Real News Dataset (Kaggle)
 🚀 How to Run  
 
 1. Clone the repository:
+
+2. Install dependencies:
+3. 
+3. Run the notebook:
+- Open in Jupyter Notebook / Google Colab  
+- Execute all cells  
+
+---
+
+📁 Project Structure  
+3. Run the notebook:
+- Open in Jupyter Notebook / Google Colab  
+- Execute all cells  
+
+---
+
+📁 Project Structure  
+
+
+├── NLP_Assignment.ipynb
+├── True.csv
+├── Fake.csv
+├── README.md
+
+
+---
+
+📌 Conclusion  
+
+This project demonstrates how NLP preprocessing and vectorization techniques can effectively classify news as Fake or Real. The use of TF-IDF and machine learning models significantly improves classification performance.
+
+---
+
+📜 Undertaking  
+
+We hereby declare that this project is our original work and has been completed as part of the academic requirement. All resources and references have been appropriately acknowledged.
+
+---
+
+🔗 GitHub Repository  
+
+👉 https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
